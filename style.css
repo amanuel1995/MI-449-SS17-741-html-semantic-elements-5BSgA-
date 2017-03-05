@@ -1,1 +1,19 @@
 /* Style sheet for the online store website */
+.nav-bar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: inline-block;
+}
+
+.text {
+  font-family: 'Sansita', sans-serif;
+}
+
+.discount {
+  background: #d1e8fb;
+  padding: 10px;
+}
