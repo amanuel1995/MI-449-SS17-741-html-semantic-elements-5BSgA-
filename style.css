@@ -17,3 +17,10 @@ img {
   background: #d1e8fb;
   padding: 10px;
 }
+
+footer {
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  padding: 10px;
+}
